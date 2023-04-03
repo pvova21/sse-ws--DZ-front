@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/pvova21/sse-ws--DZ-front/issues"
   },
-  "homepage": "https://github.com/pvova21/sse-ws--DZ-front#readme",
+  "homepage": "https://pvova21.github.io/sse-ws--DZ-front/",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.3",
